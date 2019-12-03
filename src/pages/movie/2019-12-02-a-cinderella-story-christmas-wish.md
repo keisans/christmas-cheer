@@ -15,6 +15,6 @@ tags:
   - musical
 score: 6
 ---
-## Cinderella
+A Cinderella Story: Christmas Wish stars Laura Marano as 'Kat,' as a traditional Cinderella figure after her wildlife-adventure-loving father inexplicably married her step-mother before passing away. Since this is the fifth in the *A Cinderella Story* series, they decided to spice it up by removing any magical elements, replacing it with the seeming inability of teenagers to recognize each other while wearing wigs.
 
-Pretty standard cinderella story, though without 
+Kat and her prince Dominic both work at a holiday themed park and singing holiday telegram company. Dominic plays santa while Kat is an elf.
